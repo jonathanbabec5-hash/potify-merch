@@ -1,0 +1,7 @@
+{
+  "project": "POTIFY Merch Directory",
+  "kind": "Store integration reference",
+  "source": "potify-first-cycle at `7bc29685d6decd1f3d1bbbb0216f837bc7701a51`. Exact official store and tote destinations from the published book view. New integration reference; no order data or live catalog synchronization.",
+  "scope": "Product stock, pricing, order export and current conversion are unknown. The reference never processes payment.",
+  "prepared": "2026-11-25"
+}
