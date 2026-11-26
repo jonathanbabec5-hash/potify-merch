@@ -2,6 +2,14 @@
 
 [Complete repository directory tree](docs/DIRECTORY.md)
 
+## From a line in a book to something you can carry
+
+A book tote is a modest idea and a good test of this directory. Someone who comes from the First Cycle should reach that particular object without guessing among unrelated products. The link is the part this project owns.
+
+The [two catalogue records](src/directory.json) distinguish the storefront from product 32713018. The [entry page](public/index.html) makes the handoff; the merchant platform owns the product details and checkout. Source can establish which item was selected, not its stock, price, delivery date or any sale.
+
+Trace the tote link and compare the destination’s product identity with the record. If it lands at a storefront, a missing page or a different item, report the destination and date. No purchase is needed to make that correction.
+
 **Store integration reference.** Connect the book, film and games to a real merchandise destination.
 
 ### Setup and usage
