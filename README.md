@@ -1,5 +1,13 @@
 # POTIFY Merch Directory
 
+## Find your way in
+
+| If you are… | Start here | Try this |
+| --- | --- | --- |
+| A reader | [Open the directory page](public/index.html) | Explore the handoff from the story to merchandise. |
+| A developer | [Inspect catalogue records](src/directory.json) | Compare the recorded item with the destination. |
+| A contributor | [Explore the project tree](docs/DIRECTORY.md) | Report a wrong destination and the date checked. |
+
 [Complete repository directory tree](docs/DIRECTORY.md)
 
 ## From a line in a book to something you can carry
